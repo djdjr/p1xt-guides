@@ -92,7 +92,7 @@ Complete [The Odin Project - Full Stack JavaScript](https://www.theodinproject.c
 
 | Courses                                                                                                                 |   Status   |   Evidence   |
 | :---------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Foundations                                                                                                             |            |              |
+| Foundations                                                                                                             |     🚧     |              |
 | Intermediate HTML and CSS                                                                                               |            |              |
 | JavaScript                                                                                                              |            |              |
 | Advanced HTML and CSS                                                                                                   |            |              |
